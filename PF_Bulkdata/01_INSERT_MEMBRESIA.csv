@@ -1,0 +1,10 @@
+id,tipo,duracion,precio
+1,Básica,Mensual,25.00
+2,Básica,Trimestral,67.50
+3,Básica,Anual,240.00
+4,Premium,Mensual,40.00
+5,Premium,Trimestral,108.00
+6,Premium,Anual,384.00
+7,VIP,Mensual,50.00
+8,VIP,Trimestral,135.00
+9,VIP,Anual,480.00

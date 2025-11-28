@@ -1,0 +1,51 @@
+id,tipo,horario,duracion_minutos,cupo,id_entrenador
+1,Yoga Matutino,06:00:00,60,35,1
+2,Yoga Restaurativo,08:00:00,75,42,7
+3,Hatha Yoga,10:00:00,60,38,13
+4,Vinyasa Flow,12:00:00,60,45,19
+5,Yoga Intermedio,14:00:00,75,40,25
+6,Yoga Avanzado,16:00:00,90,30,1
+7,Yoga Vespertino,18:00:00,60,50,7
+8,Yoga Nocturno,20:00:00,60,36,13
+9,Spinning Principiantes,06:30:00,45,48,2
+10,Spinning Intensivo,08:30:00,60,55,8
+11,Spinning Intervalos,10:30:00,50,52,14
+12,Spinning Cardio,12:30:00,45,60,20
+13,Spinning Power,14:30:00,60,45,2
+14,Spinning Resistencia,16:30:00,55,50,8
+15,Spinning Express,18:30:00,45,58,14
+16,Spinning Avanzado,19:30:00,60,42,20
+17,Spinning Nocturno,21:00:00,45,38,2
+18,CrossFit Básico,07:00:00,60,32,3
+19,CrossFit WOD,09:00:00,75,35,9
+20,CrossFit Strength,11:00:00,90,30,15
+21,CrossFit Metcon,13:00:00,60,40,21
+22,CrossFit Olympic,15:00:00,75,28,3
+23,CrossFit Conditioning,17:00:00,60,45,9
+24,CrossFit Competition,19:00:00,90,30,15
+25,CrossFit Open Box,20:30:00,60,38,21
+26,Musculación Principiantes,06:00:00,75,35,4
+27,Fuerza y Masa,08:00:00,90,40,10
+28,Musculación Tren Superior,10:00:00,60,38,16
+29,Musculación Tren Inferior,12:00:00,75,42,22
+30,Musculación Funcional,14:00:00,60,45,4
+31,Hipertrofia,16:00:00,90,32,10
+32,Powerlifting,18:00:00,75,30,16
+33,Musculación Avanzada,20:00:00,90,35,22
+34,Calistenia Básica,07:00:00,60,40,5
+35,Calistenia Skills,09:00:00,75,35,11
+36,Calistenia Intermedia,11:00:00,60,38,17
+37,Calistenia Freestyle,13:00:00,75,32,23
+38,Calistenia Fuerza,15:00:00,60,45,5
+39,Calistenia Estática,17:00:00,90,30,11
+40,Calistenia Dinámica,19:00:00,60,42,17
+41,Calistenia Avanzada,20:00:00,75,28,23
+42,Calistenia Street Workout,21:30:00,60,35,5
+43,Pilates Matinal,06:00:00,60,36,6
+44,Pilates Reformer,08:00:00,60,30,12
+45,Pilates Mat,10:00:00,60,45,18
+46,Pilates Core,12:00:00,50,40,24
+47,Pilates Intermedio,14:00:00,60,38,6
+48,Pilates Terapéutico,16:00:00,75,32,12
+49,Pilates Avanzado,18:00:00,60,35,18
+50,Pilates Vespertino,20:00:00,60,42,24
